@@ -28,7 +28,7 @@
 4. Riddet : https://www.reddit.com/r/TiddlyWiki5/  <sup>Planning</sup> 
 5. YouTube TW5 Channel  <sup>Planning</sup> 
 6. Gitter  <sup>Planning</sup> 
-7. 12. Twitter   <sup>Planning</sup> 
+7. Twitter   <sup>Planning</sup> 
 
 #### Official TW5 Websites:-
 8. Tiddlywiki https://tiddlywiki.com  <sup>Planning</sup> 
