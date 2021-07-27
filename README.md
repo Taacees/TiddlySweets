@@ -2,7 +2,7 @@
  Let everyone enjoy whatever Sweets they like, We're just providing a "Smart Plate"
 
 ### IMPORTANT
-1. This Project is for Research, Education and Explore what's __Possible__  (all licences are respected) 
+1. This Project is for Research, Education and Exploring what's __Possible__  (all licences are respected) 
 2. This Repo has Minimal/No code involved, it's "Mainly" for communicating:-
     * Project Progress/Tracking
     * "Sample Results" for each Phase/Step (JSON files)
