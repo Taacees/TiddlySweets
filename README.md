@@ -9,7 +9,7 @@
     * Documentaion / Videos
 
 ### WHY?
-1. From our experiance, TiddlyWiki is the best personal Information/Content Management System (IMS/CMS) We've ever used, So the logic said : it should management it's own information.
+1. From our experiance, TiddlyWiki is the best personal Information/Content Management System (IMS/CMS) We've ever used, So the logic said : it should manage it's own information.
 2. There are many communication channels that the TiddlyWiki community currently using, this is "Normal" but it's a big part of the __"Information Blackholes"__ (the informatin is there, but you cannot find it).
 3. Build new "layers" on the top of the data currenlty exist (Data 🠊 Information 🠊 Knowlege 🠊 Wisdom).
 
