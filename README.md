@@ -16,10 +16,12 @@
 ### WHAT?
 #### Official TW5 Communities:-
 1. Google Groups:
-   * Project:25K 🠲 TiddlyWiki User Group (project started when the group has 25K conversations) <sup>In Progress</sup> 
-   * Project:Goodfellas 🠲 TiddlyWiki Dev. & Doc. Groups (Leave No One Behind) <sup>Planning</sup> 
+   * Project __25K__  🠲  TiddlyWiki User Group <sup>In Progress</sup> 
+   * Project __Goodfellas__ (Leave No One Behind) :-
+      * TiddlyWiki Dev. Groups  <sup>In Progress</sup> 
+      * TiddlyWiki Doc. Groups <sup>In Progress</sup> 
 2. GitHub:
-   * Project:Megamind 🠲 TiddlyWiki5 Repo. Discussions <sup>Planning</sup> 
+   * Project __Megamind__ 🠲 TiddlyWiki5 Repo. Discussions <sup>In Progress</sup> 
 
 #### Other TW5 Communities:-
 3. Stack Overflow  <sup>Planning</sup> 
