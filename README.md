@@ -11,15 +11,15 @@
 ### WHY?
 1. From our experiance, TiddlyWiki is the best personal Information/Content Management System (IMS/CMS) We've ever used, So the logic said : it should management it's own information.
 2. There are many communication channels that the TiddlyWiki community currently using, this is "Normal" but it's a big part of the __"Information Blackholes"__ (the informatin is there, but you cannot find it).
-3. Build new "layers" on the top of the data currenlty exist (Data 🠲 Information 🠲 Knowlege 🠲 Wisdom).
+3. Build new "layers" on the top of the data currenlty exist (Data 🠊 Information 🠊 Knowlege 🠊 Wisdom).
 
 ### WHAT?
 #### Official TW5 Communities:-
 1. Google Groups:
-   * Project:25K => TiddlyWiki User Group (project started when the group has 25K conversations) <sup>In Progress</sup> 
-   * Project:Goodfellas => TiddlyWiki Dev. & Doc. Groups (Leave No One Behind) <sup>Planning</sup> 
+   * Project:25K 🠲 TiddlyWiki User Group (project started when the group has 25K conversations) <sup>In Progress</sup> 
+   * Project:Goodfellas 🠲 TiddlyWiki Dev. & Doc. Groups (Leave No One Behind) <sup>Planning</sup> 
 2. GitHub:
-   * Project:Megamind => TiddlyWiki5 Repo. Discussions <sup>Planning</sup> 
+   * Project:Megamind 🠲 TiddlyWiki5 Repo. Discussions <sup>Planning</sup> 
 
 #### Other TW5 Communities:-
 3. Stack Overflow  <sup>Planning</sup> 
