@@ -22,9 +22,9 @@ TiddlyWiki Sweets : Let everyone enjoy whatever Sweets they like, We're just pro
 #### WHAT?
 
 1. Google Groups:
-   * Project:25K => TiddlyWiki User Group (project started when the group has 25K conversations)
-   * Project:Goodfellas => TiddlyWiki Dev. & Doc. Groups (Leave No One Behind) 
+   * Project:25K => TiddlyWiki User Group (project started when the group has 25K conversations) <sup>In Progress</sup> 
+   * Project:Goodfellas => TiddlyWiki Dev. & Doc. Groups (Leave No One Behind) <sub>Planning</sub>
 
 2. GitHub:
-   * Project:Megamind => TiddlyWiki5 Repo. Discussions
+   * Project:Megamind => TiddlyWiki5 Repo. Discussions <sub>Planning</sub>
  
