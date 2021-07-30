@@ -5,3 +5,6 @@
     * Sometimes it's good to watch the battlefield of your next war: this was fun to creat, fun to watch BUT totally useless & waste of time (almost :wink:)
 
 
+## stepOne (Duel):
+
+1. Go through all ~820 pages (all has the same URL) and get the 25K IDs and URLs for each indevidual conversation.
