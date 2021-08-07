@@ -7,6 +7,7 @@
     * Project Progress/Tracking
     * "Sample Results" for each Phase/Step (JSON files)
     * Documentaion / Videos
+3. Follow [@TaaceesME](https://twitter.com/TaaceesME) for progress updates, or post in Discussions if you have any requests / suggestions.
 
 ### WHY?
 1. From our experiance, TiddlyWiki is the best personal Information/Content Management System (IMS/CMS) We've ever used, So the logic said : it should manage it's own information.
