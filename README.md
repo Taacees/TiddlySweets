@@ -1,4 +1,4 @@
-# TiddlyWiki Sweets (TiddlyWiki Information Portal)
+# TiddlyWiki Sweets (TiddlyWiki Information Portal/Hub)
  Let everyone enjoy whatever Sweets they like, We're just providing a "Smart Plate"
 
 ### IMPORTANT
