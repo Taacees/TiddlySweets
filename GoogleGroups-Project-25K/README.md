@@ -12,6 +12,7 @@
    * Go through all ~820 pages (all has the same URL) and get the 25K IDs and URLs for each indevidual conversation.
    * As of Today 06Aug2021, we successfully have the 24542 ID & URL. [check this Video](https://youtu.be/UJt4tYNybfs).
    * Today I can see that "we really can do it" it's hard but possible
+   * Phase01 samples: https://bit.ly/37ELoj1
 
 * Step 02 (Inprogress)
    * Collect the remaing conversations data to construct the first Data Unit/Entity in the project, which represent the "Conversation" (No "Message" are involved in this step)
