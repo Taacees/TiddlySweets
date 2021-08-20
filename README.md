@@ -30,6 +30,7 @@
 5. YouTube TW5 Channel  <sup>Planning</sup> 
 6. Gitter  <sup>Planning</sup> 
 7. Twitter   <sup>Planning</sup> 
+8. Talk TiddlyWiki (Discourse)
 
 #### Official TW5 Websites:-
 8. Tiddlywiki https://tiddlywiki.com  <sup>Planning</sup> 
